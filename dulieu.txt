@@ -1,0 +1,11 @@
+4 8 2 
+Đen,Tầm thước,Nhẹ,Không,Bị rám
+Đen,Cao,Vừa phải,Có,Không
+Râm,Thấp,Vừa phải,Có,Không
+Đen,Thấp,Vừa phải,Không,Bị rám
+Bạc,Tầm thước,Nặng,Không,Bị rám
+Râm,Cao,Nặng,Không,Không
+Râm,Tầm thước,Nặng,Không,Không
+Đen,Thấp,Nhẹ,Có,Không
+
+
